@@ -1,3 +1,7 @@
 # MatrixSumAssignment
 
-This program takes a matrix as input and performs different calculations on it. It prints the sum of each row and the sum of each column of the matrix. It also calculates the sum of the forward (main) diagonal and the reverse diagonal. The program demonstrates how matrix operations can be performed using Java arrays and loops.
+DESCRIPTION 
+
+This program works with a matrix. It stores the matrix values and performs different calculations on them. The program calculates the sum of all rows and the sum of all columns separately. It also finds the sum of the main diagonal (forward diagonal) and the reverse diagonal of the matrix.
+
+This program shows how two dimensional arrays and loops can be used in Java to process and calculate values in a matrix.
