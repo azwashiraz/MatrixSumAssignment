@@ -1,6 +1,6 @@
 # MatrixSumAssignment
 
-Assignment 1
+ASSIGNMENT 1
 
 DESCRIPTION 
 
@@ -8,7 +8,7 @@ This program works with a matrix. It stores the matrix values and performs diffe
 
 This program shows how two dimensional arrays and loops can be used in Java to process and calculate values in a matrix.
 
-Assignment 2
+ASSIGNMENT 2
 
 DISCRIPTION
 
