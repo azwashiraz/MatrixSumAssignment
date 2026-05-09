@@ -21,31 +21,31 @@ This program demonstrates how square matrices can be handled in Java using two d
 
 ASSIGNMENT 3
 
-DISCRIPTION:
+DESCRIPTION:
 
-This project contains Java programs that convert a decimal number into its binary representation. The assignment is divided into three parts. 
+This project contains Java programs that convert a decimal number into its binary form. The work is divided into three parts.
 
-In Part (a): the program takes an integer input from the user and converts it into binary using a basic approach. 
+In Part (a): the program takes an integer input from the user and converts it into binary using a simple basic method.
 
-In Part (b): a user-defined function is created that takes an integer as a parameter, converts it into binary, stores the binary digits in an integer array, and returns that array.
+In Part (b): a user-defined function is used which takes an integer as a parameter, converts it into binary, stores the binary digits in an integer array, and returns that array.
 
-In Part (c): another user-defined function is implemented that performs the same conversion but stores the binary digits in a string and returns the binary string. The programs are written in a simple and basic student-level style without using advanced data structures.
+In Part (c), another user-defined function performs the same task but stores the binary digits in a string and returns the binary number as a string. All programs are written in a simple and beginner-friendly way without using complex data structures.
 
 
 ASSIGNMENT 4
 
-DISCRIPTION:
+DESCRIPTION:
 
-This project contains Java programs for calculating sales totals from a text file (SalesEVESession.txt). The programs process data and generate totals based on different categories using both array-based logic and HashMap.
+This project contains Java programs that read sales data from a file (SalesEVESession.txt) and calculate totals based on different categories using arrays and HashMap.
 
-1. Product Wise Sum (No HashMap)
-This program calculates total sales for a fixed list of products using arrays. It reads data from the file, matches product names with a predefined list, and updates total sales accordingly. It is simple and does not use any advanced data structure like HashMap.
+Product Wise Sum (No HashMap):
+This program calculates total sales for a fixed list of products using arrays. It reads the file, matches product names with a predefined list, and updates their totals. It is a basic approach and does not use HashMap.
 
-2. ID Wise Sum (No HashMap)
-This program calculates total sales based on fixed representative IDs. It uses arrays to store predefined IDs and accumulates sales amounts by matching IDs from the file. It is a basic approach without using HashMap.
+ID Wise Sum (No HashMap):
+This program calculates total sales based on fixed representative IDs using arrays. It matches IDs from the file with predefined values and adds their sales totals. It is simple and does not use HashMap.
 
-3. Product Wise Sum (Using HashMap)
-This program uses a HashMap to calculate total sales for each product dynamically. It reads product names from the file and automatically adds new products if they are not already in the map. It provides a more flexible and efficient solution compared to array-based logic.
+Product Wise Sum (Using HashMap):
+This program uses a HashMap to calculate product-wise sales totals dynamically. It reads product names from the file and automatically adds new entries if needed. This method is more flexible and efficient.
 
-4. ID Wise Sum (Using HashMap)
-This program calculates total sales based on representative IDs using a HashMap. It dynamically stores IDs and updates their corresponding sales totals. This approach is more efficient and handles any number of IDs without predefined limits.
+ID Wise Sum (Using HashMap):
+This program calculates sales totals based on representative IDs using a HashMap. It dynamically stores IDs and updates their values. This approach is more efficient and works without fixed limits.
